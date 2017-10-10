@@ -1,0 +1,887 @@
+[
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507633064032,
+            "changeTime": 1507633066866,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507633064044,
+            "changeTime": 1507633064044,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158696,
+            "changeTime": 1507634158696,
+            "contentHash": "75f953a908b6d424d79f1eab208bfb9bdee0c0cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507633016014,
+            "changeTime": 1507633064057,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158266,
+            "changeTime": 1507634158266,
+            "contentHash": "18180b1328ba386e6112ca1c989b4758fa2920a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes\\FindDealerController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes\\FindDealerController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 752,
+            "modifiedTime": 1507634158246,
+            "changeTime": 1507634158246,
+            "contentHash": "d8b3d14b15c3f3e997b1a3bbf16a6f608c1b0e30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes\\FindDealerController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes\\FindDealerController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1507634158234,
+            "changeTime": 1507634158234,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes\\ProdDemoController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes\\ProdDemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 928,
+            "modifiedTime": 1507634158268,
+            "changeTime": 1507634158268,
+            "contentHash": "ee2961ed4924322037619ebd00cec495ef33bd76",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes\\ProdDemoController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\classes\\ProdDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1507634158261,
+            "changeTime": 1507634158261,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\components",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158281,
+            "changeTime": 1507634158281,
+            "contentHash": "350d6acf1cd571f6f44efefb9ee47af7db5e656f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\components\\ProductDemoComponent.component",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\components\\ProductDemoComponent.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6743,
+            "modifiedTime": 1507634158283,
+            "changeTime": 1507634158283,
+            "contentHash": "863b4e28cfb7414719d75ddef691610f467e3ed9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\components\\ProductDemoComponent.component-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\components\\ProductDemoComponent.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1507634158276,
+            "changeTime": 1507634158276,
+            "contentHash": "49f0900a851853d9413a2c15bd9aae1e7e860288",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158290,
+            "changeTime": 1507634158290,
+            "contentHash": "f8777e31e093f482f63cee05970ba49923fbfd43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\layouts\\Demo_Object__c-Demo Object Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\layouts\\Demo_Object__c-Demo Object Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3373,
+            "modifiedTime": 1507634158292,
+            "changeTime": 1507634158292,
+            "contentHash": "394fda435455e4e96f51c3e7be6b49acea96dfe4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158452,
+            "changeTime": 1507634158452,
+            "contentHash": "a0c813d2d5532e650161946beb54e54118be4cb3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158499,
+            "changeTime": 1507634158499,
+            "contentHash": "e564b3220ff24970a3d09d4f5e1ab072e8fce647",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\Demo_Object__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\Demo_Object__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2090,
+            "modifiedTime": 1507634158457,
+            "changeTime": 1507634158457,
+            "contentHash": "0ed56f26e5c36853c353404e9b910dfbfb73104c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158494,
+            "changeTime": 1507634158494,
+            "contentHash": "edd3baeffe4831515d9ba9328c6f9da0328b910b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Address_1__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Address_1__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 363,
+            "modifiedTime": 1507634158470,
+            "changeTime": 1507634158470,
+            "contentHash": "e547a5d9db7668f0049e85d68ab40b3ee0625e48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Address_2__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Address_2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 364,
+            "modifiedTime": 1507634158474,
+            "changeTime": 1507634158474,
+            "contentHash": "1e1232c4b016ea5c8bab112c52c3438e9b75d637",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Dealer_City__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Dealer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1507634158478,
+            "changeTime": 1507634158478,
+            "contentHash": "00a739923675552eb8335f8e17adf5bf1bbff5d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Phone_Number__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Phone_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1507634158484,
+            "changeTime": 1507634158484,
+            "contentHash": "77556e85ab9be3fe399f7151a8aed68c2fe303f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\User_Email__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\User_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 344,
+            "modifiedTime": 1507634158488,
+            "changeTime": 1507634158488,
+            "contentHash": "7208ec5143078a7bb6f1057b5885d1eb9960f8b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Zip_Code__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\fields\\Zip_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1507634158495,
+            "changeTime": 1507634158495,
+            "contentHash": "2383767773eb7125948204e59d412cfe23999e93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158510,
+            "changeTime": 1507634158510,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objects\\Demo_Object__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1507634158511,
+            "changeTime": 1507634158511,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158335,
+            "changeTime": 1507634158335,
+            "contentHash": "d6c69aff551cd4aa7da2495542d5ca50771584f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158372,
+            "changeTime": 1507634158372,
+            "contentHash": "592fb0f4b6d4af3e3f60413606a577fe6e42d3e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Address_1__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Address_1__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1507634158349,
+            "changeTime": 1507634158349,
+            "contentHash": "348d90bb271129ab2af567f8f72242bdc8e50b37",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Address_2__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Address_2__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1507634158353,
+            "changeTime": 1507634158353,
+            "contentHash": "15a7837dbade19b0e3ce1b50bc9239c0dfd005c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Dealer_City__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Dealer_City__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1507634158357,
+            "changeTime": 1507634158357,
+            "contentHash": "1e2fd89e492ec246718c366133d9b0e147923455",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Demo_Object__c-en_US.objectTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Demo_Object__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 722,
+            "modifiedTime": 1507634158344,
+            "changeTime": 1507634158344,
+            "contentHash": "00b0320d4e861f90331bbd49620f5e011d80be86",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Phone_Number__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Phone_Number__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1507634158361,
+            "changeTime": 1507634158361,
+            "contentHash": "03ea6a25be314d190025670b32947ce77f97e574",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\User_Email__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\User_Email__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1507634158369,
+            "changeTime": 1507634158369,
+            "contentHash": "51e88919be283d7580775f73d693997045aed04f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Zip_Code__c.fieldTranslation-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\objectTranslations\\Demo_Object__c-en_US\\Zip_Code__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1507634158376,
+            "changeTime": 1507634158376,
+            "contentHash": "9157e8e62fe9c865b705cb8e290cf548cb59ae58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158575,
+            "changeTime": 1507634158575,
+            "contentHash": "91efd7fc63b852b478bd8061e429f1cf79ab9b97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\LeadershipDemo.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\LeadershipDemo.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 215,
+            "modifiedTime": 1507634158545,
+            "changeTime": 1507634158545,
+            "contentHash": "d6835204390b0867680cb391a7eaf3e9da89fa00",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\LeadershipDemo.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\LeadershipDemo.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 297,
+            "modifiedTime": 1507634158537,
+            "changeTime": 1507634158537,
+            "contentHash": "d0e5023f5ec97d0bc9735f29b7cc12593b1399f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\productdemo.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\productdemo.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9047,
+            "modifiedTime": 1507634158577,
+            "changeTime": 1507634158577,
+            "contentHash": "5ea0de3c3a892c7dff4dafa8c66fc176e074a040",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\productdemo.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\productdemo.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 294,
+            "modifiedTime": 1507634158570,
+            "changeTime": 1507634158570,
+            "contentHash": "234906e90f1907a43e53989064e9af7a703daab2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\TestPage.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\TestPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 251,
+            "modifiedTime": 1507634158561,
+            "changeTime": 1507634158561,
+            "contentHash": "b7500ca5a84c4ae1c90ea6a7e7ddf2d15db6f653",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\TestPage.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\pages\\TestPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 291,
+            "modifiedTime": 1507634158554,
+            "changeTime": 1507634158554,
+            "contentHash": "dd9bc7a66082541e705023a610fb86d4d34f278e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158585,
+            "changeTime": 1507634158585,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19049,
+            "modifiedTime": 1507634158587,
+            "changeTime": 1507634158587,
+            "contentHash": "d518abbc62cfe69cbf77745997e306dfd511ec9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158669,
+            "changeTime": 1507634158669,
+            "contentHash": "805fd2edfdb907a27cdbf04de38feefa187776b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1271068,
+            "modifiedTime": 1507634158631,
+            "changeTime": 1507634158631,
+            "contentHash": "b3128310f5cac12bff5a7451f17192ea6de7c5fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\CompareInsuranceStaticUI.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1507634158617,
+            "changeTime": 1507634158617,
+            "contentHash": "d584b456850756df5faffd97feac54a283a5c5fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\prod3.resource",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\prod3.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12257,
+            "modifiedTime": 1507634158671,
+            "changeTime": 1507634158671,
+            "contentHash": "5c1ab0eef7e75649114f221f2c6a66f22141ef62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\prod3.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\prod3.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1507634158663,
+            "changeTime": 1507634158663,
+            "contentHash": "430cae76c8121c777301baf63b7da9e1faf5fc1d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1229099,
+            "modifiedTime": 1507634158656,
+            "changeTime": 1507634158656,
+            "contentHash": "1ad7ed2fcf6cf998d535e5659b9c76a3f432c79e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\staticresources\\SF1AppStaticUI.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 301,
+            "modifiedTime": 1507634158640,
+            "changeTime": 1507634158640,
+            "contentHash": "0feaf66204f292d1ff592b63b8255a6c6e5421ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158677,
+            "changeTime": 1507634158677,
+            "contentHash": "19962b46a752f146dcc5a07b163babdb210feb63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\tabs\\Demo_Object__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\tabs\\Demo_Object__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 231,
+            "modifiedTime": 1507634158679,
+            "changeTime": 1507634158679,
+            "contentHash": "d916259336fd4ddaeb097a6f0a08599d631d4335",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\triggers",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158692,
+            "changeTime": 1507634158692,
+            "contentHash": "c821140738bb2035585dfa602c6225fb42b2df37",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\triggers\\accountTestTrggr.trigger",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\triggers\\accountTestTrggr.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1193,
+            "modifiedTime": 1507634158694,
+            "changeTime": 1507634158694,
+            "contentHash": "70115b4ad9c7b9c083251938e740d83c211171e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\triggers\\accountTestTrggr.trigger-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\triggers\\accountTestTrggr.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 183,
+            "modifiedTime": 1507634158687,
+            "changeTime": 1507634158687,
+            "contentHash": "e627e5ea9355d8ded28f79d0e25f7d34da42c44f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\workflows",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\workflows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507634158703,
+            "changeTime": 1507634158703,
+            "contentHash": "efae6f46f4b068b584f6b04a1c04657f7a8cae20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\workflows\\Demo_Object__c.workflow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo\\force-app\\main\\default\\workflows\\Demo_Object__c.workflow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 517,
+            "modifiedTime": 1507634158705,
+            "changeTime": 1507634158705,
+            "contentHash": "d2df6cab93a844b4848159206d3ebc89c5367b07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\latha.lakshminarayan\\dx\\TestRepo\\Test-Repo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507633390808,
+            "changeTime": 1507633390808,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
